@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -ex
+
+python split_mnist.py
